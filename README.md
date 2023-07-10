@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Darkheadbanger
-- 👀 I’m interested in Front end developpement 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front-end and Back-end development 
+- 🌱 On the Front-end, I'm currently learning JavaScript, Vue.js, Angular, and React.js 🚀
+- 💼 On the Back-end, I'm delving into Node.js, Express, Sequelize, MongoDB, MySQL, SQL, and NoSQL.
+- 🌟 I'm especially eager to master Java and Angular as I wish to specialize in them.
+- 💞️ I’m looking to collaborate on challenging and interesting web development projects
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/davidbouhaben/)
+- 😊 Always open to connect, learn, and grow!
 
 <!---
 Darkheadbanger/Darkheadbanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
